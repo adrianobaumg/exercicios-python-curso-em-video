@@ -19,7 +19,7 @@ Repositório criado para registrar minha jornada resolvendo **todos os exercíci
 
 Os exercícios são baseados no curso de Python do **Curso em Vídeo (Gustavo Guanabara)**:
 
-- ✅ Mundo 1 – Fundamentos  
+- ⏳ Mundo 1 – Fundamentos  
 - ⏳ Mundo 2 – Estruturas de Controle  
 - ⏳ Mundo 3 – Estruturas de Dados  
 
@@ -30,14 +30,14 @@ Cada exercício possui sua própria solução em Python.
 ## 📂 Estrutura do Repositório
 
 ```bash
-📁 mundo1/
+📁 exercicios/mundo1/
   ├── ex001.py
   ├── ex002.py
   └── ...
 
-📁 mundo2/
+📁  exercicios/mundo2/
   ├── ex036.py
   └── ...
 
-📁 mundo3/
+📁  exercicios/mundo3/
   └── ...
